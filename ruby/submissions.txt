@@ -1,0 +1,13 @@
+hamming: http://exercism.io/submissions/a29c29e503ef4c208dbc421763f768a0
+         http://exercism.io/submissions/ec6b804e4d784aa986266ffb546f4817
+         http://exercism.io/submissions/01fe07e98a4246d899eb7bcc67f7a2c7
+         http://exercism.io/submissions/37e806f714cc48f3b383cb9df8f9847b
+         http://exercism.io/submissions/11ac15e7b2234d38a9c765fa4fcfe67c
+gigasecond: http://exercism.io/submissions/03921fb45ed141da9f7f33b98972e45a0
+            http://exercism.io/submissions/67dd332aa6f34e3bb9e5a08ad3ea06f5
+complement: http://exercism.io/submissions/98d62ab333054abea6c4bbece21c3096
+            http://exercism.io/submissions/1558477aa1f946e99b41a9cf7f1fbc69
+raindrops: http://exercism.io/submissions/41850184f022498cb07528a452ac1542
+           http://exercism.io/submissions/55ecf5f4fc7a4595b9393b8bf108546c
+squares: http://exercism.io/submissions/39156de780b645eca5cf2f9831dece1e
+         http://exercism.io/submissions/380088f986ab4d8a851dc816b707be68
